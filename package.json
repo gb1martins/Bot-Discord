@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1",
+    "sequelize": "^6.37.0",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "bot para cadastro no discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Gabriel",
+  "license": "ISC"
+}
