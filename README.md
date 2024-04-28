@@ -1,5 +1,5 @@
 # Para esse projeto funcionar, é necessário que contemple os requisitos abaixo:
-## 1-)Possuir o cadastro no Discord Develeper
+## Possuir o cadastro no Discord Develeper
 **Passo 1: Acessar o Discord Developer Portal**
 
 Abra seu navegador web e vá para Discord Developer Portal.  
