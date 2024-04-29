@@ -28,7 +28,7 @@ Agora que você tem o token do seu bot, você pode usá-lo para autenticar o bot
 
 Se o seu bot precisar de permissões específicas para funcionar corretamente, você pode configurá-las na seção "OAuth2" da página do bot no portal do desenvolvedor do Discord.
 
-## Projeto de Exemplo com Discord.js e Banco de Dados SQLite
+## Projeto baseado no cadastro de informações para o Discord.js e Banco de Dados SQLite
 Este é um projeto de exemplo que utiliza o Discord.js para criar um bot para o Discord, e usa o banco de dados SQLite através do Sequelize para armazenar dados.  
 
 
@@ -58,4 +58,11 @@ Siga estes passos para configurar o projeto:
 Copy code:
 ```
 npm install
+```
+3. Crie um arquivo .env na raiz do projeto.
+4. Adicione as seguintes variáveis ao arquivo .env:
+```
+TOKEN=sua_variavel_token_aqui
+CLIENT_ID=sua_variavel_client_id_aqui
+GUILD_ID=sua_variavel_guild_id_aqui
 ```
