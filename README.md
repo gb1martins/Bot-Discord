@@ -1,5 +1,6 @@
-# Para esse projeto funcionar, é necessário que contemple os requisitos abaixo:
-## Possuir o cadastro no Discord Develeper
+# Bot de cadastro dos servidores da comunidade do jogo Palworld
+Este projeto é um bot Discord que permite aos usuários cadastrar e armazenar dados dentro de um servidor Discord. Ele fornece uma maneira conveniente de gerenciar informações específicas do servidor, como listas de membros, eventos, tarefas e muito mais.
+## Para esse projeto funcionar, é necessário que contemple os requisitos abaixo:
 **Passo 1: Acessar o Discord Developer Portal**
 
 Abra seu navegador web e vá para Discord Developer Portal.  
